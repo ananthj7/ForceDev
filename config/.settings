@@ -1,0 +1,17 @@
+{
+    "projectName": "ApexTryouts",
+    "username": "j.ananthakrishnan@gmail.com",
+    "id": "8c2514d0-723e-11e9-b9cd-e51f61187798",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ananthj-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Work\\Salesforce\\",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

@@ -1,0 +1,8 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Help Page for Job Candidates</h1>
+  <p>The Candidate object is for identifying and tracking individual candidates for job positions.</p>
+  <p>Sort candidates by Name, Location, Last Modified, and Prospect Rating.</p>
+
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
